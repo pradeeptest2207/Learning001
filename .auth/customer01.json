@@ -1,0 +1,27 @@
+{
+  "cookies": [
+    {
+      "name": "cf_clearance",
+      "value": "bIMsVTk5JRSHrRNyeTnyrA4sDPXi94jNuGQa22_azSg-1779345193-1.2.1.1-TVolkp7IHpzo8xcDa0QFJWlO_ExMNhNjU4cDXD9QtojhFJe.JTVxlU0AAAV_c9j33Rge8QHGA5SM2VJy60zkPUk6pYKHQzJGeQrJ5W0_EDMYzYU1ysCVN.w7Yu7RdxDi3Ea8OBkZmyyyLEegA6yh882VKaGF6fwcmIEfS5GND1mGNKhHwMWYqLGt8JEIk19mNq23JXccvsQ87YRBbJ13EX2IYN2cq4fvMBdir1BjaUuK__WmOMONMuK11lGN_1d3Zp9KWGz6rTJIq8i4HunCOQGJtwTunrLeFS8e4lekpPCmTq_s2IRoetxZ99p.2m9SggofDtQ349k3bSmDVnL0BA",
+      "domain": ".practicesoftwaretesting.com",
+      "path": "/",
+      "expires": 1810881193.645753,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://practicesoftwaretesting.com",
+      "_crHasCrossSiteAncestor": false
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://practicesoftwaretesting.com",
+      "localStorage": [
+        {
+          "name": "auth-token",
+          "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwaS5wcmFjdGljZXNvZnR3YXJldGVzdGluZy5jb20vdXNlcnMvbG9naW4iLCJpYXQiOjE3NzkzNDUxOTYsImV4cCI6MTc3OTM0NTQ5NiwibmJmIjoxNzc5MzQ1MTk2LCJqdGkiOiIxbnZjTkhVYlVXNWNSdzk0Iiwic3ViIjoiMDFLUzRIWFJFQjMwQjdCSlZaR04zNjMzSjkiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3Iiwicm9sZSI6InVzZXIifQ.pVtwokofydyNzmCo2sJu9c-0x-OwZNWQuAJBcVjAyQE"
+        }
+      ]
+    }
+  ]
+}
