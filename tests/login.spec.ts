@@ -30,6 +30,7 @@ test('grid load with 9 items', async ({ page }) => {
    const productGrid = page.locator(".col-md-9");
   await expect (productGrid.getByRole("link")).toHaveCount(1);
   await expect (page.getByAltText('Thor Hammer')).toBeVisible();
+  page.close();
   });
   });
 
