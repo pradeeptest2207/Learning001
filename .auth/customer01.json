@@ -2,10 +2,10 @@
   "cookies": [
     {
       "name": "cf_clearance",
-      "value": "QMXJO00SFdETDT4Cw3Flroxdj_N_6qOVnbzIkCOAmKg-1779667993-1.2.1.1-A6._VxnImRB92NpfJ6CW4PdUkGCyW9gW0ACN27yccmYn9AtUylzUy_f.ihAsSVG50xknIzFuPnS5dJ1evf6n3KAdPi91pPG3G00DXO6hpHhrr8r_6rTUzaczbtI0Hui1I5N.hIrK7S66FG4YRlvGBUKXrJ0TVu2KCw7c9W92KWkA7zvFJ1GBHaEaMbHaoFR._dl0tW4kSjHL9CZKOZQWprTySlyZG2nqZGluGHJAtVzs.wVJ6_Xp5WuS1J3UQIfkUWRUVbUlSjK82xK.X7SXDh2ZYe5TvW5SmyFkAff5oMOGZLrcFEy61cYJ.HzeQho0i9lGhOkDhk1ZDdV9UWEwAw",
+      "value": "z8kaLPrNpa_YJ6chUVUzb8Wf05CvtFVLROBrUmlBuvo-1779669377-1.2.1.1-lTfXd9JonmmDCu0VnHe1hWGQ0TNH.8SeC3QImaRt4gnfXmYSZQ4pLaOg0cUXz.e.E5sH1.xZKnGn3zcqOfqAmkI_4cJB3FC_mBVaow9BhX2FQr4EbIDe7YgIAPM_PShl9v9RBEYcgH9dSaffu9yw.yIn37aNHR.A_0WndaNQXeDBEy83XCXkldmpZ1CegCQjUwLrnatvooz0zJk0twNIpetDNQAXKJn8qmLgnkDP4DgEvgXq4RlC.GyT2.qVIcdQTgxvccVXB3DIdF2VRJ5bx5MPut1ss6wE24.RZ5uJFGLz64EYcRBthL1_GgFWTkGHQS95iyyGPtm1uxwZsXNCYw",
       "domain": ".practicesoftwaretesting.com",
       "path": "/",
-      "expires": 1811203993.380581,
+      "expires": 1811205377.536063,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None",
@@ -19,7 +19,7 @@
       "localStorage": [
         {
           "name": "auth-token",
-          "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwaS5wcmFjdGljZXNvZnR3YXJldGVzdGluZy5jb20vdXNlcnMvbG9naW4iLCJpYXQiOjE3Nzk2Njc5OTUsImV4cCI6MTc3OTY2ODI5NSwibmJmIjoxNzc5NjY3OTk1LCJqdGkiOiJUdmhDNXhGWkNsTlNFcDdZIiwic3ViIjoiMDFLU0U2WFI2QVFYUlpGOTBSNzVKM0FRNzgiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3Iiwicm9sZSI6InVzZXIifQ.lqRHF8a4FtQZ1DyA6dDugH79ckHtsnZIUDmBu4s8d-M"
+          "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwaS5wcmFjdGljZXNvZnR3YXJldGVzdGluZy5jb20vdXNlcnMvbG9naW4iLCJpYXQiOjE3Nzk2NjkzODAsImV4cCI6MTc3OTY2OTY4MCwibmJmIjoxNzc5NjY5MzgwLCJqdGkiOiJGZjhzMFZLNnFCMXVSeXgwIiwic3ViIjoiMDFLU0U2WFI2QVFYUlpGOTBSNzVKM0FRNzgiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3Iiwicm9sZSI6InVzZXIifQ.YbYFnT0zmsHnMR42Z8FiHBfeLljC4czW-OHrcTijHig"
         }
       ]
     }

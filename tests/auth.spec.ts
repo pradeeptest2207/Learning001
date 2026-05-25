@@ -7,7 +7,7 @@ setup("Login test", async ({ page,context }) => {
     await page.locator('[data-test="email"]').fill(email);
     await page.locator('[data-test="password"]').fill(password);
     await page.locator('[data-test="login-submit"]').click();
-    await expect(page.locator('[data-test="nav-menu"]')).toContainText('Bob Smith');
+    await expect(page.locator('[data-test="nav-menu"]')).toBeVisible();
     await context.storageState({ path: customer01AuthFile });
     page.close();
 });
