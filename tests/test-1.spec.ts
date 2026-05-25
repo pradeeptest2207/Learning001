@@ -9,4 +9,5 @@ test('test', async ({ page }) => {
   await expect(page.locator('[data-test="nav-messages"]')).toContainText('Messages');
   await page.locator('[data-test="language-select"]').click();
   await page.locator('[data-test="nav-home"]').click();
+  page.close();
 });

@@ -19,11 +19,10 @@ test('API post test', async ({request}) => {
    const response = await request.post(apiurl + "/users/login",{
     data: {
         email: "customer3@practicesoftwaretesting.com",
-        password: "Testing@1708"
+        password: "pass123"
     },
     });
     expect(response.status()).toBe(200);
     const responseBody = await response.json(); 
-    console.log(responseBody);  
-   } 
+      } 
 );
